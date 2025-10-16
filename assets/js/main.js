@@ -15,7 +15,7 @@
 	}
 
 	async function loadMessages(locale) {
-		const res = await fetch(`./i18n/${locale}.json`, { cache: "no-store" });
+		const res = await fetch(`i18n/${locale}.json`, { cache: "no-store" });
 		if (!res.ok) throw new Error("Failed to load locale file: " + locale);
 		return res.json();
 	}
