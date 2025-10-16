@@ -34,7 +34,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: https://automlsummerschool.github.io
+      url: https://ligia-ufpe.github.io
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
