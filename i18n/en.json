@@ -1,0 +1,129 @@
+{
+  "brand": {
+    "title": "Responsible AutoML",
+    "edition": "Advanced Summer School • 2025"
+  },
+  "nav": {
+    "partners": "Partners",
+    "about": "About",
+    "team": "Team",
+    "agenda": "Agenda",
+    "pricing": "Pricing",
+    "location": "Location"
+  },
+  "cta": {
+    "register": "Registration",
+    "viewAgenda": "View agenda",
+    "registerNow": "Register now"
+  },
+  "hero": {
+    "title": "Advanced Summer School on Responsible AutoML",
+    "subtitle": "November 11th to 12th, 2025, <a href=\"https://cin.ufpe.br\" target=\"_blank\" rel=\"noopener\">CIn‑UFPE</a>"
+  },
+  "partners": {
+    "title": "Partners"
+  },
+  "about": {
+    "title": "About",
+    "text": "Dive into the future of AI with us at the \"Advanced Summer School on Responsible AutoML\"! This event is your gateway to the cutting-edge world of Automated Machine Learning (AutoML), all through the lens of ethical AI innovation. It's the perfect spot for researchers, students, and professionals alike to deepen their understanding, connect with like-minded individuals, and work together towards the responsible development of AI. Take this opportunity to improve your knowledge and skills in AutoML. Let's embark on this adventure together!",
+    "learn": {
+      "title": "What you'll learn",
+      "item1": "Measure and improve model fairness",
+      "item2": "Build interpretable AutoML pipelines",
+      "item3": "Mitigate risk with safe deployment",
+      "item4": "Apply concepts in guided labs"
+    },
+    "audience": {
+      "title": "Who should attend",
+      "item1": "Students (undergrad and graduate) in CS/DS",
+      "item2": "ML/AI researchers and practitioners",
+      "item3": "Data scientists and ML engineers",
+      "item4": "Anyone implementing trustworthy AI in practice"
+    }
+  },
+  "team": {
+    "title": "Team",
+    "roles": {
+      "organizer": "Organizer",
+      "coordinator": "Coordinator",
+      "speaker": "Speaker",
+      "role": "Role"
+    },
+    "bio": {
+      "ufpe": "Federal University of Pernambuco, Center for Informatics",
+      "feup": "University of Porto, Faculty of Engineering",
+      "bristol": "University of Bristol",
+      "ita": "Aeronautics Institute of Technology",
+      "usp": "University of São Paulo, São Carlos",
+      "ufmg": "Federal University of Minas Gerais",
+      "ufscar": "Federal University of São Carlos"
+    }
+  },
+  "agenda": {
+    "title": "Agenda",
+    "expandAll": "Expand all",
+    "collapseAll": "Collapse all",
+    "room": "Room",
+    "rooms": {
+      "auditorium": "Auditorium",
+      "lounge": "Lounge"
+    },
+    "day1": { "title": "Day 1",
+      "morning": {
+        "title": "Morning",
+        "item1": "Welcome",
+        "item2": "Lecture 1: National speaker",
+        "item3": "Coffee break",
+        "item4": "Lecture 2: National speaker",
+        "item5": "Hands-on workshops: Installation and setup of basic tools"
+      },
+      "afternoon": {
+        "title": "Afternoon",
+        "item1": "Lecture 3 (part 1): Carlos Soares",
+        "item2": "Coffee break",
+        "item3": "Lecture 3 (part 2): Carlos Soares",
+        "item4": "Hands-on workshops"
+      }
+    },
+    "day2": { "title": "Day 2",
+      "morning": {
+        "title": "Morning",
+        "item1": "Lecture 4 (part 1): Peter Flach",
+        "item2": "Coffee break",
+        "item3": "Lecture 4 (part 2): Peter Flach",
+        "item4": "Hands-on workshop"
+      },
+      "afternoon": {
+        "title": "Afternoon",
+        "item1": "Lecture 5: National speaker",
+        "item2": "Coffee break",
+        "item3": "Lecture 6: National speaker",
+        "item4": "Poster session",
+        "item5": "Closing"
+      }
+    }
+  },
+  "gallery": { "title": "Images", "hint": "Replace these with photos of your campus, speakers, and sessions." },
+  "pricing": {
+    "title": "Pricing",
+    "industry": { "title": "Professionals", "amount": "220", "note": "Includes full access and certificate" },
+    "grad": { "title": "Postgraduate Students", "amount": "120", "note": "Requires valid student ID" },
+    "undergrad": { "title": "Graduate Students", "amount": "60", "note": "Requires valid student ID" }
+  },
+  "location": {
+    "title": "Location",
+    "text": "Hosted at Centro de Informática - UFPE, Recife-PE, Brazil.",
+    "address": {
+      "title": "Centro de Informática — UFPE",
+      "lines": "Av. Jornalista Aníbal Fernandes, s/n<br>University City, Recife — PE<br>50740-560, Brazil",
+      "openMaps": "Open in Maps"
+    }
+  },
+  "footer": {
+    "rights": "© 2025 Responsible AutoML Summer School. All rights reserved. Made by Ligia - UFPE.",
+    "about": "About",
+    "team": "Team",
+    "register": "Register"
+  }
+}
+

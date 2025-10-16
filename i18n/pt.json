@@ -1,0 +1,129 @@
+{
+  "brand": {
+    "title": "AutoML Responsável",
+    "edition": "Escola de Verão Avançada • 2025"
+  },
+  "nav": {
+    "partners": "Parceiros",
+    "about": "Sobre",
+    "team": "Equipe",
+    "agenda": "Agenda",
+    "pricing": "Valores",
+    "location": "Local"
+  },
+  "cta": {
+    "register": "Inscrição",
+    "viewAgenda": "Ver agenda",
+    "registerNow": "Inscreva‑se"
+  },
+  "hero": {
+    "title": "Escola de Verão Avançada em AutoML Responsável",
+    "subtitle": "11 a 12 de novembro de 2025, <a href=\"https://cin.ufpe.br\" target=\"_blank\" rel=\"noopener\">CIn‑UFPE</a>"
+  },
+  "partners": {
+    "title": "Parceiros"
+  },
+  "about": {
+    "title": "Sobre",
+    "text": "Mergulhe no futuro da IA conosco na \"Escola de Verão Avançada em AutoML Responsável\"! Este evento é a sua porta de entrada para o estado da arte da Aprendizagem de Máquina Automatizada (AutoML), sob a ótica da inovação ética em IA. É o lugar ideal para pesquisadores, estudantes e profissionais aprofundarem seus conhecimentos, conectarem‑se com pessoas com os mesmos interesses e colaborarem para o desenvolvimento responsável da IA. Aproveite a oportunidade para aprimorar seus conhecimentos e habilidades em AutoML. Vamos embarcar nessa jornada juntos!",
+    "learn": {
+      "title": "O que você vai aprender",
+      "item1": "Mensurar e melhorar a justiça dos modelos",
+      "item2": "Construir pipelines de AutoML interpretáveis",
+      "item3": "Mitigar riscos com implantação segura",
+      "item4": "Aplicar conceitos em laboratórios guiados"
+    },
+    "audience": {
+      "title": "Quem deve participar",
+      "item1": "Estudantes (graduação e pós) em CS/DS",
+      "item2": "Pesquisadores e profissionais de ML/IA",
+      "item3": "Cientistas de dados e engenheiros de ML",
+      "item4": "Quem implementa IA confiável na prática"
+    }
+  },
+  "team": {
+    "title": "Equipe",
+    "roles": {
+      "organizer": "Organizador(a)",
+      "coordinator": "Coordenador(a)",
+      "speaker": "Palestrante",
+      "role": "Função"
+    },
+    "bio": {
+      "ufpe": "Universidade Federal de Pernambuco, Centro de Informática",
+      "feup": "Universidade do Porto, Faculdade de Engenharia",
+      "bristol": "Universidade de Bristol",
+      "ita": "Instituto Tecnológico de Aeronáutica",
+      "usp": "Universidade de São Paulo, São Carlos",
+      "ufmg": "Universidade Federal de Minas Gerais",
+      "ufscar": "Universidade Federal de São Carlos"
+    }
+  },
+  "agenda": {
+    "title": "Agenda",
+    "expandAll": "Expandir tudo",
+    "collapseAll": "Recolher tudo",
+    "room": "Sala",
+    "rooms": {
+      "auditorium": "Anfiteatro",
+      "lounge": "Sala de Convivências"
+    },
+    "day1": {"title": "Dia 1",
+      "morning": {
+        "title": "Manhã",
+        "item1": "Boas vindas",
+        "item2": "Palestra 1: Palestrante nacional",
+        "item3": "Coffee break",
+        "item4": "Palestra 2: Palestrante nacional",
+        "item5": "Workshops práticos: Instalação e configuração de ferramentas básicas"
+      },
+      "afternoon": {
+        "title": "Tarde",
+        "item1": "Palestra 3 (parte 1): Carlos Soares",
+        "item2": "Coffee break",
+        "item3": "Palestra 3 (parte 2): Carlos Soares",
+        "item4": "Workshops práticos"
+      }
+    },
+    "day2": {"title": "Dia 2",
+      "morning": {
+        "title": "Manhã",
+        "item1": "Palestra 4 (parte 1): Peter Flach",
+        "item2": "Coffee break",
+        "item3": "Palestra 4 (parte 2): Peter Flach",
+        "item4": "Workshop prático"
+      },
+      "afternoon": {
+        "title": "Tarde",
+        "item1": "Palestra 5: Palestrante nacional",
+        "item2": "Coffee break",
+        "item3": "Palestra 6: Palestrante nacional",
+        "item4": "Poster session",
+        "item5": "Encerramento"
+      }
+    }
+  },
+  "gallery": { "title": "Imagens", "hint": "Substitua por fotos do campus, palestrantes e sessões." },
+  "pricing": {
+    "title": "Valores",
+    "industry": { "title": "Profissionais", "amount": "220", "note": "Inclui acesso completo e certificado" },
+    "grad": { "title": "Pós‑graduação", "amount": "120", "note": "Requer carteira de estudante válida" },
+    "undergrad": { "title": "Graduação", "amount": "60", "note": "Requer carteira de estudante válida" }
+  },
+  "location": {
+    "title": "Local",
+    "text": "Realizado no Centro de Informática - UFPE, Recife‑PE, Brasil.",
+    "address": {
+      "title": "Centro de Informática — UFPE",
+      "lines": "Av. Jornalista Aníbal Fernandes, s/n<br>Cidade Universitária, Recife — PE<br>50740-560, Brasil",
+      "openMaps": "Abrir no Maps"
+    }
+  },
+  "footer": {
+    "rights": "© 2025 Escola de Verão AutoML Responsável. Todos os direitos reservados. Feito por Ligia - UFPE.",
+    "about": "Sobre",
+    "team": "Equipe",
+    "register": "Inscrição"
+  }
+}
+
