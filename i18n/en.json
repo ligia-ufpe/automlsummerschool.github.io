@@ -106,9 +106,9 @@
   "gallery": { "title": "Images", "hint": "Replace these with photos of your campus, speakers, and sessions." },
   "pricing": {
     "title": "Pricing",
-    "industry": { "title": "Professionals", "amount": "220", "note": "Includes full access and certificate" },
-    "grad": { "title": "Postgraduate Students", "amount": "120", "note": "Requires valid student ID" },
-    "undergrad": { "title": "Graduate Students", "amount": "60", "note": "Requires valid student ID" }
+    "industry": { "title": "Professionals", "amount": "100", "note": "Includes full access and certificate" },
+    "grad": { "title": "Postgraduate Students", "amount": "50", "note": "Requires valid student ID" },
+    "undergrad": { "title": "Graduate Students", "amount": "20", "note": "Requires valid student ID" }
   },
   "location": {
     "title": "Location",

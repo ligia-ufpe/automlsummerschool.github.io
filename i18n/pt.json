@@ -106,9 +106,9 @@
   "gallery": { "title": "Imagens", "hint": "Substitua por fotos do campus, palestrantes e sessões." },
   "pricing": {
     "title": "Valores",
-    "industry": { "title": "Profissionais", "amount": "220", "note": "Inclui acesso completo e certificado" },
-    "grad": { "title": "Pós‑graduação", "amount": "120", "note": "Requer carteira de estudante válida" },
-    "undergrad": { "title": "Graduação", "amount": "60", "note": "Requer carteira de estudante válida" }
+    "industry": { "title": "Profissionais", "amount": "100", "note": "Inclui acesso completo e certificado" },
+    "grad": { "title": "Pós‑graduação", "amount": "50", "note": "Requer carteira de estudante válida" },
+    "undergrad": { "title": "Graduação", "amount": "20", "note": "Requer carteira de estudante válida" }
   },
   "location": {
     "title": "Local",
