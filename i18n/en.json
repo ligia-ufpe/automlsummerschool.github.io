@@ -56,7 +56,8 @@
       "ita": "Aeronautics Institute of Technology",
       "usp": "University of São Paulo, São Carlos",
       "ufmg": "Federal University of Minas Gerais",
-      "ufscar": "Federal University of São Carlos"
+      "ufscar": "Federal University of São Carlos",
+      "utfpr": "Federal University of Technology - Paraná"  
     }
   },
   "agenda": {
@@ -72,32 +73,33 @@
       "morning": {
         "title": "Morning",
         "item1": "Welcome",
-        "item2": "Lecture 1: National speaker",
+        "item2": "Lecture 1 (part 1): Direções para uma ciência empírica de aprendizado de máquina - Carlos Soares",
         "item3": "Coffee break",
-        "item4": "Lecture 2: National speaker",
-        "item5": "Hands-on workshops: Installation and setup of basic tools"
+        "item4": "Lecture 1 (part 2): Direções para uma ciência empírica de aprendizado de máquina - Carlos Soares",
+        "item5": "Hands-on workshop: Tool Installation"
       },
       "afternoon": {
         "title": "Afternoon",
-        "item1": "Lecture 3 (part 1): Carlos Soares",
+        "item1": "Lecture 2 (part 1): Meta-learning beyond algorithm selection - Ana Carolina Lorena",
         "item2": "Coffee break",
-        "item3": "Lecture 3 (part 2): Carlos Soares",
-        "item4": "Hands-on workshops"
+        "item3": "Lecture 2 (part 2): Meta-learning beyond algorithm selection - Ana Carolina Lorena",
+        "item4": "Hands-on workshop: Tools for robustness evaluation in time series machine learning - Moises Santos, Ricardo Gomes, Luis Amorim, Ines Gomes, Andre Souza, Mariana Oliveira"
       }
     },
     "day2": { "title": "Day 2",
       "morning": {
         "title": "Morning",
-        "item1": "Lecture 4 (part 1): Peter Flach",
-        "item2": "Coffee break",
-        "item3": "Lecture 4 (part 2): Peter Flach",
-        "item4": "Hands-on workshop"
+        "item1": "Welcome (Day 02)",
+        "item2": "Lecture 3 (part 1): Process design and transparency: two essential ingredients for responsible AI - Peter Flach",
+        "item3": "Coffee break",
+        "item4": "Lecture 3 (part 2): Process design and transparency: two essential ingredients for responsible AI - Peter Flach",
+        "item5": "Hands-on workshop: Exploring AutoML in Imbalanced Regression Scenarios - Juscimara Avelino"
       },
       "afternoon": {
         "title": "Afternoon",
-        "item1": "Lecture 5: National speaker",
+        "item1": "Lecture 4 (part 1): Adriano Rivolli",
         "item2": "Coffee break",
-        "item3": "Lecture 6: National speaker",
+        "item3": "Lecture 4 (part 2): Adriano Rivolli",
         "item4": "Poster session",
         "item5": "Closing"
       }

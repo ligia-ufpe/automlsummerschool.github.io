@@ -56,7 +56,8 @@
       "ita": "Instituto Tecnológico de Aeronáutica",
       "usp": "Universidade de São Paulo, São Carlos",
       "ufmg": "Universidade Federal de Minas Gerais",
-      "ufscar": "Universidade Federal de São Carlos"
+      "ufscar": "Universidade Federal de São Carlos",
+      "utfpr": "Universidade Tecnológica Federal do Paraná"
     }
   },
   "agenda": {
@@ -71,33 +72,34 @@
     "day1": {"title": "Dia 1",
       "morning": {
         "title": "Manhã",
-        "item1": "Boas vindas",
-        "item2": "Palestra 1: Palestrante nacional",
+        "item1": "Boas-vindas",
+        "item2": "Palestra 1 (parte 1): Direções para uma ciência empírica de aprendizado de máquina - Carlos Soares",
         "item3": "Coffee break",
-        "item4": "Palestra 2: Palestrante nacional",
-        "item5": "Workshops práticos: Instalação e configuração de ferramentas básicas"
+        "item4": "Palestra 1 (parte 2): Direções para uma ciência empírica de aprendizado de máquina - Carlos Soares",
+        "item5": "Workshop prático: Instalação de Ferramentas"
       },
       "afternoon": {
         "title": "Tarde",
-        "item1": "Palestra 3 (parte 1): Carlos Soares",
+        "item1": "Palestra 2 (parte 1): Meta-learning beyond algorithm selection - Ana Carolina Lorena",
         "item2": "Coffee break",
-        "item3": "Palestra 3 (parte 2): Carlos Soares",
-        "item4": "Workshops práticos"
+        "item3": "Palestra 2 (parte 2): Meta-learning beyond algorithm selection - Ana Carolina Lorena",
+        "item4": "Workshop prático: Ferramentas para avaliação de robustez em aprendizado de máquina para séries temporais - Moises Santos, Ricardo Gomes, Luis Amorim, Ines Gomes, Andre Souza, Mariana Oliveira"
       }
     },
     "day2": {"title": "Dia 2",
       "morning": {
         "title": "Manhã",
-        "item1": "Palestra 4 (parte 1): Peter Flach",
-        "item2": "Coffee break",
-        "item3": "Palestra 4 (parte 2): Peter Flach",
-        "item4": "Workshop prático"
+        "item1": "Boas-vindas (Dia 02)",
+        "item2": "Palestra 3 (parte 1): Process design and transparency: two essential ingredients for responsible AI - Peter Flach",
+        "item3": "Coffee break",
+        "item4": "Palestra 3 (parte 2): Process design and transparency: two essential ingredients for responsible AI - Peter Flach",
+        "item5": "Workshop prático: Explorando AutoML em Cenários de Regressão Desbalanceada - Juscimara Avelino"
       },
       "afternoon": {
         "title": "Tarde",
-        "item1": "Palestra 5: Palestrante nacional",
+        "item1": "Palestra 4 (parte 1): Adriano Rivolli",
         "item2": "Coffee break",
-        "item3": "Palestra 6: Palestrante nacional",
+        "item3": "Palestra 4 (parte 2): Adriano Rivolli",
         "item4": "Poster session",
         "item5": "Encerramento"
       }
