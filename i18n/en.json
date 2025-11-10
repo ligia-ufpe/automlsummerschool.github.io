@@ -83,7 +83,7 @@
         "item1": "Lecture 2 (part 1): Meta-learning beyond algorithm selection - Ana Carolina Lorena",
         "item2": "Coffee break",
         "item3": "Lecture 2 (part 2): Meta-learning beyond algorithm selection - Ana Carolina Lorena",
-        "item4": "Hands-on workshop: Tools for robustness evaluation in time series machine learning - Moises Santos, Ricardo Gomes, Luis Amorim, Ines Gomes, Andre Souza, Mariana Oliveira"
+        "item4": "Hands-on workshop: Auditoria de dados para IA responsável - Moises Santos, Ricardo Gomes, Luis Amorim, Ines Gomes, Andre Souza, Mariana Oliveira"
       }
     },
     "day2": { "title": "Day 2",
@@ -97,11 +97,10 @@
       },
       "afternoon": {
         "title": "Afternoon",
-        "item1": "Lecture 4 (part 1): Do que se alimenta a IA: caracterização de dados, meta-aprendizado, filosofia e um pouco de arte - Adriano Rivolli",
-        "item2": "Coffee break",
-        "item3": "Lecture 4 (part 2): Do que se alimenta a IA: caracterização de dados, meta-aprendizado, filosofia e um pouco de arte - Adriano Rivolli",
-        "item4": "Poster session",
-        "item5": "Closing"
+        "item1": "Lecture 4: Do que se alimenta a IA: caracterização de dados, meta-aprendizado, filosofia e um pouco de arte - Adriano Rivolli",
+        "item2": "Coffee break & Poster Session",
+        "item3": "Lecture 5: Dataset Morphing - Moisés Santos ",
+        "item4": "Closing"
       }
     }
   },
